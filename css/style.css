@@ -1,0 +1,19 @@
+.container>div {
+    display: inline-block;
+    padding: 1%;
+    width: 30%;
+}
+
+h2 {
+    display: inline;
+    margin-right: 10px;
+    text-align: center;
+}
+
+button {
+    margin: 5px;
+}
+
+#btnChiama1 {
+    width: 35%;
+}
